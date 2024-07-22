@@ -8,7 +8,7 @@ const RecentProjects = () => {
   return (
     <div className="py-10">
       <h1 className="heading">
-        Something I've <span className="text-purple">worked on</span>
+        Something I&apos;ve <span className="text-purple">worked on</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-x-14 gap-y-0 mt-10">
         {projects.map(({ id, title, des, img, LiveSitehref, repohref }) => (

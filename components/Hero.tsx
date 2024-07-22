@@ -3,6 +3,7 @@ import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import SparklesText from "./ui/sparkles.text";
 import { PiMouseSimpleThin } from "react-icons/pi";
+import Image from "next/image";
 
 const Hero = () => {
   return (
@@ -33,12 +34,14 @@ const Hero = () => {
           />
           <p className="text-center md:tracking-wider my-5 mb-4 text-sm md:text-lg lg:text-2xl">
             Hi{" "}
-            <img
+            <Image
               className="w-7 h-7 mb-2 inline-block"
               src="/wave.png"
               alt="wave icon"
+              width={28} // Ensure width is set
+              height={28}
             />{" "}
-            I'm Tasmia,{" "}
+            I&apos;m Tasmia,{" "}
             <SparklesText
               text="Developer"
               colors={{ first: "#9E7AFF", second: "#FE8BBB" }}

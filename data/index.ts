@@ -76,36 +76,36 @@ export const gridItems: GridItem[] = [
 export const projects = [
   {
     id: 1,
-    title: "My Personal Portfolio",
-    des: "You're likely checking this out now...",
-    img: "/portfolio_cover.png",
-    LiveSitehref: "https://github.com/tassmiia",
-    repohref: "https://github.com/tassmiia",
-  },
-  {
-    id: 2,
     title: "Tokyo Town ",
-    des: "A simple sushi website with subtle animations",
+    des: "Animated website that brings your favorite Japanese dishes to life, wrapped in a smooth and stylish design.",
     img: "/TT_cover.png",
     LiveSitehref: "https://tokyo-town.netlify.app/",
     repohref: "https://github.com/tassmiia/TOKYO-TOWN",
   },
   {
-    id: 3,
+    id: 2,
     title: "Whac a Mario",
     des: "A fun and engaging mini-game where players whack popping Mario characters to score points.",
     img: "/mario.png",
     LiveSitehref: "https://whac-a-mario.netlify.app/",
     repohref: "https://github.com/tassmiia/Whac-a-Mario",
   },
-  // {
-  //   id: 4,
-  //   title: "Coming Soon",
-  //   des: "CS..",
-  //   img: "/portfolio_cover.png",
-  //   LiveSitehref: "https://whac-a-mario.netlify.app/",
-  //   repohref: "https://github.com/tassmiia",
-  // },
+  {
+    id: 3,
+    title: "My Personal Portfolio",
+    des: "You're likely checking this out now...",
+    img: "/portfolio_cover.png",
+    LiveSitehref: "#",
+    repohref: "https://github.com/tassmiia/portfolio",
+  },
+  {
+    id: 4,
+    title: "Gesture Pong - Hand Controlled Game",
+    des: "Immersive and interactive gaming experience by moving your hands, using Python, OpenCV, cvzone, and MediaPipe",
+    img: "/pong_cover.png",
+    LiveSitehref: "https://github.com/tassmiia/Gesture-Pong",
+    repohref: "https://github.com/tassmiia/Gesture-Pong",
+  },
 ];
 
 export const socialMedia = [
