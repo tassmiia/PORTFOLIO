@@ -5,13 +5,14 @@ Welcome to my portfolio website! 🎉
 
 This is a personal project designed to showcase my work, skills, and passion for web development. 
 
-## Features
+## <a name="features">🔋 Features</a>
 
-- **Showcase Projects**: Display detailed information about various projects I've worked on.
-- **Interactive UI**: Engaging and dynamic user interface with modern design elements.
-- **Responsive Design**: Optimized for various screen sizes, ensuring a seamless experience on any device.
-- **Dark and Light Mode**: Toggle between light and dark themes to suit your preference.
-- **Contact Form**: Easily get in touch with me through the contact form.
+👉 **Hero**: Captivating introduction featuring a spotlight effect and dynamic background.
+
+👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe, card hover effects and icon-cloud adding depth and engagement.
+
+👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
+
 
 ## Getting Started
 
