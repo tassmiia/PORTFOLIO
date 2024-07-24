@@ -38,7 +38,7 @@ const Footer = () => {
       <div className="relative z-10 flex flex-col items-center">
         <TextRevealCardPreview />
 
-        <a href="mailto:khantasmiia@outlook.com">
+        <a href="mailto:contact.tasmiia@gmail.com">
           <MagicButton
             title="Let's get in touch"
             icon={<BsChatDots />}
