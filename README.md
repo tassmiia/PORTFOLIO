@@ -33,8 +33,8 @@ If you're eager to run this website on your local machine, don't worry, I've got
    Open your terminal and type:
 
    ```bash
-   git clone https://github.com/tassmiia/portfolio.git
-   cd portfolio
+   git clone https://github.com/tassmiia/Portfolio.git
+   cd Portfolio
    ```
 
 2. **Install Dependencies**
