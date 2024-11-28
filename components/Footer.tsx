@@ -54,8 +54,8 @@ const Footer = () => {
             className="w-6 h-6 ml-1"
             src="/love.png"
             alt="Love icon"
-            width={24} // Replace with actual width of the image
-            height={24} // Replace with actual height of the image
+            width={24} 
+            height={24}
           />
         </p>
 
@@ -72,8 +72,8 @@ const Footer = () => {
               <Image
                 src={info.img}
                 alt="dw"
-                width={20} // Replace with actual width of the image
-                height={20} // Replace with actual height of the image
+                width={20} 
+                height={20} 
               />
             </a>
           ))}

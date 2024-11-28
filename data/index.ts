@@ -84,11 +84,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Whac a Mario",
-    des: "A fun and engaging mini-game where players whack popping Mario characters to score points.",
-    img: "/mario.png",
-    LiveSitehref: "https://whac-a-mario.netlify.app/",
-    repohref: "https://github.com/tassmiia/Whac-a-Mario",
+    title: "INNOVA",
+    des: "Developing a B2B platform in collaboration with a firm, featuring advanced admin tools using React and Node.js.",
+    img: "/innova.png",
+    LiveSitehref: "",
+    repohref: "",
   },
   {
     id: 3,
